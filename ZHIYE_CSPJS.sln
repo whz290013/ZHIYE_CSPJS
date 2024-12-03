@@ -30,6 +30,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构_01_表达式�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构_02_括号匹配检验", "01_Data_Structure\数据结构_02_括号匹配检验\数据结构_02_括号匹配检验.vcxproj", "{70724758-3963-4C17-AF11-8FCCA488305A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构_02_括号匹配检验_02", "01_Data_Structure\数据结构_02_括号匹配检验_02\数据结构_02_括号匹配检验_02.vcxproj", "{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -102,6 +104,14 @@ Global
 		{70724758-3963-4C17-AF11-8FCCA488305A}.Release|x64.Build.0 = Release|x64
 		{70724758-3963-4C17-AF11-8FCCA488305A}.Release|x86.ActiveCfg = Release|Win32
 		{70724758-3963-4C17-AF11-8FCCA488305A}.Release|x86.Build.0 = Release|Win32
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Debug|x64.ActiveCfg = Debug|x64
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Debug|x64.Build.0 = Debug|x64
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Debug|x86.Build.0 = Debug|Win32
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Release|x64.ActiveCfg = Release|x64
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Release|x64.Build.0 = Release|x64
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Release|x86.ActiveCfg = Release|Win32
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +125,7 @@ Global
 		{A73294BC-EDDE-46D5-808E-97240337D302} = {ED3FA100-5317-4B4F-9DAA-CAB51298C74F}
 		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC} = {D6A27695-699A-4568-B0AF-FD518720EC04}
 		{70724758-3963-4C17-AF11-8FCCA488305A} = {D6A27695-699A-4568-B0AF-FD518720EC04}
+		{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5} = {D6A27695-699A-4568-B0AF-FD518720EC04}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
