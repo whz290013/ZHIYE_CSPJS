@@ -144,6 +144,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_铲雪车", "02_数据�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_信使", "02_数据结构\04_图论算法\02_最短路径算法\02_信使\02_信使.vcxproj", "{8013F9ED-A5BF-4D23-ADF8-357FD71E6B52}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_烦人的幻灯片", "02_数据结构\04_图论算法\06_拓扑排序与关键路径\01_烦人的幻灯片\01_烦人的幻灯片.vcxproj", "{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_病毒", "02_数据结构\04_图论算法\06_拓扑排序与关键路径\02_病毒\02_病毒.vcxproj", "{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -272,6 +276,22 @@ Global
 		{8013F9ED-A5BF-4D23-ADF8-357FD71E6B52}.Release|x64.Build.0 = Release|x64
 		{8013F9ED-A5BF-4D23-ADF8-357FD71E6B52}.Release|x86.ActiveCfg = Release|Win32
 		{8013F9ED-A5BF-4D23-ADF8-357FD71E6B52}.Release|x86.Build.0 = Release|Win32
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Debug|x64.ActiveCfg = Debug|x64
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Debug|x64.Build.0 = Debug|x64
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Debug|x86.ActiveCfg = Debug|Win32
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Debug|x86.Build.0 = Debug|Win32
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Release|x64.ActiveCfg = Release|x64
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Release|x64.Build.0 = Release|x64
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Release|x86.ActiveCfg = Release|Win32
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69}.Release|x86.Build.0 = Release|Win32
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Debug|x64.ActiveCfg = Debug|x64
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Debug|x64.Build.0 = Debug|x64
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Debug|x86.Build.0 = Debug|Win32
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Release|x64.ActiveCfg = Release|x64
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Release|x64.Build.0 = Release|x64
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Release|x86.ActiveCfg = Release|Win32
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -342,6 +362,8 @@ Global
 		{08FA7442-F9AE-4230-8A12-6C28C33FEE28} = {6437CF81-831E-47DC-8FA2-BF3B7FBE6832}
 		{F46C69FD-5327-49FD-9AC1-3EBD5C2EBAEF} = {41B72FF1-E026-4C58-BDC8-3C5D6F0FA1B0}
 		{8013F9ED-A5BF-4D23-ADF8-357FD71E6B52} = {E34AACD9-9867-401F-BFEA-8CE1048DF302}
+		{17D9AB51-FA22-4DAB-BF1E-F79B893F6B69} = {9EBB0A29-8E9B-41A6-BE22-95B86CCE6053}
+		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF} = {9EBB0A29-8E9B-41A6-BE22-95B86CCE6053}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
