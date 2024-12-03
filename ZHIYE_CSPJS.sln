@@ -178,6 +178,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_刻录光盘", "02_数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_团伙", "02_数据结构\04_图论算法\04_并查集\01_团伙\01_团伙.vcxproj", "{E7CAA812-D08A-49BF-93FA-AC7D51E2C512}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_合并果子", "02_数据结构\03_树\02_堆及其应用\01_合并果子\01_合并果子.vcxproj", "{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -442,6 +444,14 @@ Global
 		{E7CAA812-D08A-49BF-93FA-AC7D51E2C512}.Release|x64.Build.0 = Release|x64
 		{E7CAA812-D08A-49BF-93FA-AC7D51E2C512}.Release|x86.ActiveCfg = Release|Win32
 		{E7CAA812-D08A-49BF-93FA-AC7D51E2C512}.Release|x86.Build.0 = Release|Win32
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Debug|x64.ActiveCfg = Debug|x64
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Debug|x64.Build.0 = Debug|x64
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Debug|x86.Build.0 = Debug|Win32
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Release|x64.ActiveCfg = Release|x64
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Release|x64.Build.0 = Release|x64
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Release|x86.ActiveCfg = Release|Win32
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -529,6 +539,7 @@ Global
 		{51BCC48C-09AE-4C8B-9734-F9A2B89F1F03} = {82F98D88-9177-40E0-8F60-8E4ED3DD77D0}
 		{3558DBCB-9FB4-45CA-9FC2-EC6D0C2C999C} = {AE09FAE8-60EC-49E6-AD05-F7E7153D9E5E}
 		{E7CAA812-D08A-49BF-93FA-AC7D51E2C512} = {011921BD-2ACA-402C-A745-AAE589DBC51E}
+		{B7B862A1-B1A3-4D30-AFB2-177B58049D9C} = {3A2D2266-D283-455E-B9B0-092400464B3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
