@@ -150,6 +150,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_大整数加法", "01_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_大整数减法", "01_算法\01_高精度计算\02_大整数减法\02_大整数减法.vcxproj", "{7FDF0D6B-4B55-407D-A324-52EEABC144BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_谁考了第k名", "01_算法\02_数据排序\01_谁考了第k名\01_谁考了第k名.vcxproj", "{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -302,6 +304,14 @@ Global
 		{7FDF0D6B-4B55-407D-A324-52EEABC144BD}.Release|x64.Build.0 = Release|x64
 		{7FDF0D6B-4B55-407D-A324-52EEABC144BD}.Release|x86.ActiveCfg = Release|Win32
 		{7FDF0D6B-4B55-407D-A324-52EEABC144BD}.Release|x86.Build.0 = Release|Win32
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Debug|x64.ActiveCfg = Debug|x64
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Debug|x64.Build.0 = Debug|x64
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Debug|x86.Build.0 = Debug|Win32
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Release|x64.ActiveCfg = Release|x64
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Release|x64.Build.0 = Release|x64
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Release|x86.ActiveCfg = Release|Win32
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -375,6 +385,7 @@ Global
 		{07FB9C65-D70D-44B0-ADCA-F18C4179BAAF} = {9EBB0A29-8E9B-41A6-BE22-95B86CCE6053}
 		{A73294BC-EDDE-46D5-808E-97240337D302} = {608516BD-DB22-41CB-86C2-CF13CE036CB2}
 		{7FDF0D6B-4B55-407D-A324-52EEABC144BD} = {608516BD-DB22-41CB-86C2-CF13CE036CB2}
+		{3D7D671A-C5DE-41E5-9365-0EE6F3FE6B42} = {F31F4F41-2A17-4CF5-9D18-81C625FC949A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
