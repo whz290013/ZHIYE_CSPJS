@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决�
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构_01_表达式括号匹配", "01_Data_Structure\数据结构_01_表达式括号匹配\数据结构_01_表达式括号匹配.vcxproj", "{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -82,6 +84,14 @@ Global
 		{A73294BC-EDDE-46D5-808E-97240337D302}.Release|x64.Build.0 = Release|x64
 		{A73294BC-EDDE-46D5-808E-97240337D302}.Release|x86.ActiveCfg = Release|Win32
 		{A73294BC-EDDE-46D5-808E-97240337D302}.Release|x86.Build.0 = Release|Win32
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Debug|x64.ActiveCfg = Debug|x64
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Debug|x64.Build.0 = Debug|x64
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Debug|x86.Build.0 = Debug|Win32
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Release|x64.ActiveCfg = Release|x64
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Release|x64.Build.0 = Release|x64
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Release|x86.ActiveCfg = Release|Win32
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +103,7 @@ Global
 		{C7737523-AAFE-42B4-9EB8-5C4D41360038} = {D6A27695-699A-4568-B0AF-FD518720EC04}
 		{BD048303-A6B0-4AE4-AC68-65D10826B47A} = {ED3FA100-5317-4B4F-9DAA-CAB51298C74F}
 		{A73294BC-EDDE-46D5-808E-97240337D302} = {ED3FA100-5317-4B4F-9DAA-CAB51298C74F}
+		{D08FFE3B-E217-4589-AE7A-68D80EFB40EC} = {D6A27695-699A-4568-B0AF-FD518720EC04}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
