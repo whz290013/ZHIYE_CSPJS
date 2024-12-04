@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e215abe5-67a3-4dd0-8caa-c3ddc51f6608}</ProjectGuid>
-    <RootNamespace>My01求正整数2和100之间的完全数</RootNamespace>
+    <ProjectGuid>{acdf83e5-0634-4ec1-bf53-709c38f0ef5a}</ProjectGuid>
+    <RootNamespace>例65用冒泡法对数组按由小到大排序</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
