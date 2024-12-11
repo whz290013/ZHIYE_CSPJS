@@ -22,7 +22,7 @@ std::string subtractLargeNumbers(const std::string& num1, const std::string& num
 }
 int main() {
     std::string num1, num2;
-    std::cout << "请输入被除数: ";
+    std::cout << "请输入被减数: ";
     std::cin >> num1;
     std::cout << "请输入减数: ";
     std::cin >> num2;
